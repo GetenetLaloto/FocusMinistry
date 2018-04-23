@@ -15,5 +15,5 @@ function whatsapp(formType){
   }
 
 
-  window.location =("https://api.whatsapp.com/send?phone=2675284014&text="+ u)
+  window.location =("https://api.whatsapp.com/send?phone=+12675284014&text="+ u)
 }
